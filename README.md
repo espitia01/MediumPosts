@@ -8,4 +8,8 @@ In this repository, I host the code associated with my Medium posts.
   <ul>
     <li>File: <a href="https://github.com/espitia01/MediumPosts/blob/main/RK4-Lorenz63.ipynb">RK4-Lorenz63.ipynb</a></li>
   </ul>
+   <li>Python Guide: Building a Reservoir Computer from Scratch</li>
+  <ul>
+    <li>File: <a href="https://github.com/espitia01/MediumPosts/blob/main/reservoir-computer.ipynb">reservoir_computer.ipynb</a></li>
+  </ul>
 </ol>
