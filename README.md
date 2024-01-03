@@ -12,7 +12,5 @@ In this repository, I host the code associated with my Medium posts.
   <ul>
     <li>File: <a href="https://github.com/espitia01/MediumPosts/blob/main/reservoir-computer.ipynb">reservoir_computer.ipynb</a></li>
   </ul>
-  <ul>
-    <li>File: <a href="https://github.com/espitia01/MediumPosts/blob/main/medium_article_post_3.ipynb">DistilBERT-sentiment-analysis.ipynb</a></li>
-  </ul>
+  <li>File: <a href="https://github.com/espitia01/MediumPosts/blob/main/medium_article_post_3.ipynb">DistilBERT-sentiment-analysis.ipynb</a></li>
 </ol>
