@@ -12,5 +12,8 @@ In this repository, I host the code associated with my Medium posts.
   <ul>
     <li>File: <a href="https://github.com/espitia01/MediumPosts/blob/main/reservoir-computer.ipynb">reservoir_computer.ipynb</a></li>
   </ul>
+  <li>Implementing Sentiment Analysis on X Data with DistilBERT and Huggingface: A Comprehensive Guide</li>
+  <ul>
   <li>File: <a href="https://github.com/espitia01/MediumPosts/blob/main/medium_article_post_3.ipynb">DistilBERT-sentiment-analysis.ipynb</a></li>
+  </ul>
 </ol>
