@@ -16,4 +16,8 @@ In this repository, I host the code associated with my Medium posts.
   <ul>
   <li>File: <a href="https://github.com/espitia01/MediumPosts/blob/main/medium_article_post_3.ipynb">DistilBERT-sentiment-analysis.ipynb</a></li>
   </ul>
+  <li>Mastering RNNs for Stock Prediction: TensorFlow & Python Tutorial</li>
+  <ul>
+  <li>File: <a href="https://github.com/espitia01/MediumPosts/blob/main/SBUX_predictor.ipynb">SBUX_predictor.ipynb</a></li>
+  </ul>
 </ol>
